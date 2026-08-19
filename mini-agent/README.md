@@ -14,3 +14,10 @@ The agent can:
 ![Mini Ollama Agent Demo](./agent-demo.png)
 
 ## Project Structure
+
+```text
+mini-agent/
+├── README.md
+├── agent.py
+├── requirements.txt
+└── tools.py
